@@ -1,0 +1,4 @@
+#!/bin/bash
+
+num=$1
+java -cp src:bin Collatz $num
